@@ -1,7 +1,7 @@
 # FrontEnd101
 ### Bu repositoryde Patika.dev platformunda Başlangıç Seviyesi Frontend Development Patikası için yapılan çalışmalar yer almaktadır.
 
-## Çalışmalarda Tailwind CSS kullanılmıştır.
+# Çalışmalarda Tailwind CSS ve Boostrap kullanılmıştır.
 
 
 # Anasayfa
